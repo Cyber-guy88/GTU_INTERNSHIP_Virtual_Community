@@ -1,0 +1,271 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|d:\\dotnet\\internship-main\\internshipprojectapi\\dal\\migrations\\20240703103900_createusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20240703103900_createusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|d:\\dotnet\\internship-main\\internshipprojectapi\\internshipproject\\data\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|solutionrelative:internshipproject\\data\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|d:\\dotnet\\internship-main\\internshipprojectapi\\internshipproject\\data\\model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|solutionrelative:internshipproject\\data\\model\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|d:\\dotnet\\internship-main\\internshipprojectapi\\internshipproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|solutionrelative:internshipproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|d:\\dotnet\\internship-main\\internshipprojectapi\\internshipproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|solutionrelative:internshipproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|d:\\dotnet\\internship-main\\internshipprojectapi\\internshipproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|solutionrelative:internshipproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|d:\\dotnet\\internship-main\\internshipprojectapi\\dal\\migrations\\userdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\userdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|d:\\dotnet\\internship-main\\internshipprojectapi\\dal\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|solutionrelative:dal\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|d:\\dotnet\\internship-main\\internshipprojectapi\\internshipproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|solutionrelative:internshipproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|d:\\dotnet\\internship-main\\internshipprojectapi\\internshipproject\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|solutionrelative:internshipproject\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D762EAE-049F-4167-B85E-B2DEE5360E93}|BAL\\BAL.csproj|d:\\dotnet\\internship-main\\internshipprojectapi\\bal\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D762EAE-049F-4167-B85E-B2DEE5360E93}|BAL\\BAL.csproj|solutionrelative:bal\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|d:\\dotnet\\internship-main\\internshipprojectapi\\internshipproject\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4D8502-CCC5-40B1-93FB-9DBB3AAD3D9E}|InternshipProject\\InternshipProject.csproj|solutionrelative:internshipproject\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|d:\\dotnet\\internship-main\\internshipprojectapi\\dal\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|solutionrelative:dal\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|d:\\dotnet\\internship-main\\internshipprojectapi\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DFB21C-2B23-4976-95AC-ECCC41907B46}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D762EAE-049F-4167-B85E-B2DEE5360E93}|BAL\\BAL.csproj|d:\\dotnet\\internship-main\\internshipprojectapi\\bal\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D762EAE-049F-4167-B85E-B2DEE5360E93}|BAL\\BAL.csproj|solutionrelative:bal\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "InternshipProject\\Data\\DataContext.cs",
+              "ToolTip": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Data\\DataContext.cs",
+              "RelativeToolTip": "InternshipProject\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:31:40.265Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "InternshipProject\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "InternshipProject\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:47:51.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\DAL\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\UserDbContext.cs",
+              "ToolTip": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\DAL\\UserDbContext.cs",
+              "RelativeToolTip": "DAL\\UserDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:59:49.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\DAL\\Migrations\\UserDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\UserDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\DAL\\Migrations\\UserDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DAL\\Migrations\\UserDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:59:42.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\InternshipProject\\appsettings.json",
+              "RelativeDocumentMoniker": "InternshipProject\\appsettings.json",
+              "ToolTip": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\InternshipProject\\appsettings.json",
+              "RelativeToolTip": "InternshipProject\\appsettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T10:35:04.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "InternshipProject\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "InternshipProject\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAswBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:33:35.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Program.cs",
+              "RelativeDocumentMoniker": "InternshipProject\\Program.cs",
+              "ToolTip": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Program.cs",
+              "RelativeToolTip": "InternshipProject\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:34:40.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Data\\Model\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "InternshipProject\\Data\\Model\\LoginRequest.cs",
+              "ToolTip": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Data\\Model\\LoginRequest.cs",
+              "RelativeToolTip": "InternshipProject\\Data\\Model\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:24:49.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Data\\Model\\User.cs",
+              "RelativeDocumentMoniker": "InternshipProject\\Data\\Model\\User.cs",
+              "ToolTip": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Data\\Model\\User.cs",
+              "RelativeToolTip": "InternshipProject\\Data\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:25:12.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240703103900_CreateUserTable.cs",
+              "DocumentMoniker": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\DAL\\Migrations\\20240703103900_CreateUserTable.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20240703103900_CreateUserTable.cs",
+              "ToolTip": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\DAL\\Migrations\\20240703103900_CreateUserTable.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20240703103900_CreateUserTable.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwBcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:39:01.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "InternshipProject\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\InternshipProject\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "InternshipProject\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:00:22.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\BAL\\IUserService.cs",
+              "RelativeDocumentMoniker": "BAL\\IUserService.cs",
+              "ToolTip": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\BAL\\IUserService.cs",
+              "RelativeToolTip": "BAL\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:30:16.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\DAL\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\DAL\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "DAL\\Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:42:25.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
+              "ToolTip": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T10:01:32.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\BAL\\UserService.cs",
+              "RelativeDocumentMoniker": "BAL\\UserService.cs",
+              "ToolTip": "D:\\dotNET\\Internship-main\\InternshipProjectAPI\\BAL\\UserService.cs",
+              "RelativeToolTip": "BAL\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:59:28.226Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

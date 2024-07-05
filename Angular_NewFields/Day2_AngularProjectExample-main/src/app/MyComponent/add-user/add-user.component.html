@@ -1,0 +1,42 @@
+<div class="my-3">
+    <h4>Add a User</h4>
+    <form (ngSubmit)="onSubmit()">
+
+        <div class="form-group">
+          <label for="FirstName">User First Name</label>
+          <input type="text" [(ngModel)]="firstName" class="form-control" id="firstName" name="firstName" aria-describedby="emailHelp"> 
+        </div>
+
+        <br>
+
+        <div class="form-group">
+          <label for="LastName">User Last Name</label>
+          <input type="text" [(ngModel)]="LastName" class="form-control" id="LastName" name="LastName" aria-describedby="emailHelp"> 
+        </div>
+
+        <br>
+
+        <div class="form-group">
+          <label for="address">User Address</label>
+          <input type="text" class="form-control" name="address" id="address" [(ngModel)]="address">
+        </div>
+
+        <br>
+        
+        <div class="form-group">
+          <label for="email">Email Address</label>
+          <input type="text" class="form-control" name="email" id="email" [(ngModel)]="email">
+        </div>
+
+        <br>
+
+        <div class="form-group">
+          <label for="password">password</label>
+          <input type="password" class="form-control" name="password" id="password" [(ngModel)]="password">
+        </div>
+
+
+        <br>
+
+        <button type="submit" class="btn btn-sm btn-primary">Add User</button>
+      </form></div>

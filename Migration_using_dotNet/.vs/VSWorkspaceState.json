@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Internship-main",
+    "\\Internship-main\\InternshipProjectAPI",
+    "\\Internship-main\\InternshipProjectAPI\\BAL\\obj",
+    "\\Internship-main\\InternshipProjectAPI\\InternshipProject",
+    "\\Internship-main\\InternshipProjectAPI\\InternshipProject\\bin\\Debug",
+    "\\Internship-main\\InternshipProjectAPI\\InternshipProject\\bin\\Release",
+    "\\Internship-main\\InternshipProjectAPI\\InternshipProject\\bin\\Release\\net8.0",
+    "\\Internship-main\\InternshipProjectAPI\\InternshipProject\\obj\\Debug\\net8.0"
+  ],
+  "SelectedNode": "\\Internship-main\\InternshipProjectAPI\\InternshipProject\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
